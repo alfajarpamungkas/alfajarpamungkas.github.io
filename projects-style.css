@@ -1,0 +1,14 @@
+body {  
+    min-height: 3000px;
+}
+a {
+    font-family: Impact, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    ;
+}
+p {
+    font-family: 'calibri', 'Arial Narrow Bold', sans-serif, Arial, sans-serif
+    ;
+}
+.jumbotron {
+    background-color: #9fc5ff;
+}
